@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item>
+        <shape>
+            <solid android:color="@android:color/transparent" />
+            <stroke
+                android:width="0dp"
+                android:color="@color/finishStroke"/>
+        </shape>
+    </item>
+    <item>
+        <bitmap
+            android:gravity="end"
+            android:src="@drawable/dropdown"/>
+    </item>
+</layer-list>

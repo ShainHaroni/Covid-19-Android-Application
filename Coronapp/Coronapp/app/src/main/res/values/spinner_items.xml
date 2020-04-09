@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="phone_prefixes">
+        <item>000</item>
+        <item>050</item>
+        <item>052</item>
+        <item>053</item>
+        <item>054</item>
+        <item>055</item>
+        <item>057</item>
+        <item>058</item>
+        <item>077</item>
+        <item>08</item>
+        <item>03</item>
+        <item>02</item>
+        <item>04</item>
+        <item>09</item>
+    </string-array>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme.CustomTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <!--<item name="android:windowBackground">@drawable/add_item_shape</item>-->
+    </style>
+
+    <style name="coronaRatingBar" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/star</item>
+    </style>
+
+    <style name="spinnerItemStyle" parent="@android:style/Widget.TextView.SpinnerItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">@color/finishStroke</item>
+    </style>
+
+    <style name="spinnerDropDownItemStyle" parent="@android:style/TextAppearance.Widget.TextView.SpinnerItem">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#d43003</item>
+        <item name="android:background">#a1c8bb</item>
+    </style>
+</resources>

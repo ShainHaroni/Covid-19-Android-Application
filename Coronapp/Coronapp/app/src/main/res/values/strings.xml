@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Coronapp</string>
+    <string name="Headline">Mask Order Managment</string>
+    <string name="hintName">Enter your name</string>
+    <string name="hintAddress">Enter your address</string>
+    <string name="hintPhone">Enter your phone number</string>
+    <string name="hintOrdersNumber">Enter number of masks</string>
+    <string name="submitTxt">Submit Order</string>
+    <string name="orderBtnTxt">Order Number:</string>
+    <string name="modeString">Dark mode</string>
+    <string name="finishBtn">Finish Order</string>
+    <string name="blinkingText">JUST 5$ TODAY</string>
+    <string name="dialog_message">Congratulations! Your order has been placed. CoronaApp thanks you for using our app. Do you want to place another order? (No - Close application Yes - New order)</string>
+    <string name="dialog_title">Order Finished!</string>
+    <string name="toastClosed">CoronaApp has been closed.</string>
+    <string name="toastNewOrder">Lets make another order!</string>
+    <string name="toastNotAllSelected">You must select all masks.</string>
+    <string name="yesBtn">Yes</string>
+    <string name="noBtn">No</string>
+    <string name="toastFields">All field should be filled.</string>
+    <string name="snackBarTotalPrice">Total price is:</string>
+    <string name="toastThanks">Thank you!</string>
+    <string name="ratingTxt">Rate us!</string>
+    <string name="toastVeryBad">Very bad</string>
+    <string name="toastNeedImprovement">Need some improvement</string>
+    <string name="toastGood">Good</string>
+    <string name="toastGreat">Great</string>
+    <string name="toastAwesome">Awesome, Love it!</string>
+    <string name="txtShipping">Is it the shipping address?</string>
+    <string name="hintShippingAddress">Enter the shipping address</string>
+    <string name="toastPhonePrefix">Phone prefix is not valid.</string>
+    <string name="toastDetailsSaved">Details saved successfully.</string>
+    <string name="masksAmountTxt">Select masks amount:</string>
+    <string name="selectTxt">Select masks type:</string>
+</resources>

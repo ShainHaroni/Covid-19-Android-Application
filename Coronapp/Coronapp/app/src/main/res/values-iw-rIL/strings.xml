@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">קורונמון</string>
+    <string name="Headline">ניהול הזמנת מסכות</string>
+    <string name="hintName">הכנס שם מלא</string>
+    <string name="hintAddress">הכנס כתובת</string>
+    <string name="hintPhone">הכנס מספר טלפון</string>
+    <string name="hintOrdersNumber">הכנס מספר מסכות</string>
+    <string name="submitTxt">בצע הזמנה</string>
+    <string name="orderBtnTxt">"הזמנה מספר: "</string>
+    <string name="modeString">תצוגה כהה</string>
+    <string name="finishBtn">סיים הזמנה</string>
+    <string name="blinkingText">רק 5$</string>
+    <string name="dialog_message">בשעה טובה! הזמנתך בוצע בהצלחה. צוות קורונמון מודה לך על השימוש ביישומון. האם תרצו לבצע הזמנה נוספת? (לא - סגור יישום כן - הזמנה חדשה)</string>
+    <string name="dialog_title">ההזמנה בוצעה!</string>
+    <string name="toastClosed">קורונמון נסגרה.</string>
+    <string name="toastNewOrder">בואו נבצע הזמנה נוספת!</string>
+    <string name="toastNotAllSelected">יש לבחור את כל המסכות.</string>
+    <string name="yesBtn">כן</string>
+    <string name="noBtn">לא</string>
+    <string name="toastFields">נא למלא את כל הפרטים.</string>
+    <string name="snackBarTotalPrice">"המחיר המלא הוא: "</string>
+    <string name="toastThanks">תודה רבה!</string>
+    <string name="ratingTxt">דרגו אותנו!</string>
+    <string name="toastVeryBad">על הפנים</string>
+    <string name="toastNeedImprovement">דרוש שיפור</string>
+    <string name="toastGood">טוב</string>
+    <string name="toastGreat">מצוין</string>
+    <string name="toastAwesome">מדהים, אהבתי!</string>
+    <string name="txtShipping">האם זו הכתובת למשלוח?</string>
+    <string name="hintShippingAddress">הכנס כתובת למשלוח</string>
+    <string name="toastPhonePrefix">קידומת לא תקינה.</string>
+    <string name="toastDetailsSaved">הפרטים נשמרו בהצלחה.</string>
+    <string name="masksAmountTxt">בחר כמות מסכות:</string>
+    <string name="selectTxt">בחר את סוג המסכות:</string>
+</resources>
